@@ -26,4 +26,4 @@ Weather icons dynamically change based on the current weather condition (e.g., s
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://git@github.com:hafizullah1991/Weather-App.git
