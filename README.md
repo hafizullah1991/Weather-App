@@ -1,4 +1,4 @@
-Weather App
+# Weather App
 Overview
 This is a simple Weather app that provides real-time weather information for a given location. It allows users to search for weather conditions in any city around the world and displays temperature, description, humidity, wind speed, and an icon representing the current weather condition.
 
